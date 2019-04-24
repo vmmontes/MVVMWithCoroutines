@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PruebaLiveData</string>
+    <string name="get_text">Obtener texto</string>
+    <string name="clean_text">Limpiar texto</string>
+</resources>
