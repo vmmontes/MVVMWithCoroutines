@@ -1,4 +1,4 @@
-package com.meypar.pruebalivedata
+package com.example.pruebalivedata
 
 import org.junit.Test
 

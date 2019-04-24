@@ -1,8 +1,8 @@
-package com.meypar.pruebalivedata.view.ui
+package com.example.view.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.meypar.pruebalivedata.R
+import com.example.pruebalivedata.R
 
 class MainActivity : AppCompatActivity() {
 

@@ -1,10 +1,10 @@
-package com.meypar.pruebalivedata.view.viewmodel
+package com.example.view.viewmodel
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
-import com.meypar.kernel.coroutines.backgroundContext
-import com.meypar.kernel.viewmodel.CoroutinesViewModel
-import com.meypar.pruebalivedata.model.Data
+import com.example.kernel.coroutines.backgroundContext
+import com.example.kernel.viewmodel.CoroutinesViewModel
+import com.example.model.Data
 import kotlinx.coroutines.async
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.launch

@@ -1,4 +1,4 @@
-package com.meypar.kernel.coroutines
+package com.example.kernel.coroutines
 
 import android.util.Log
 import kotlinx.coroutines.CoroutineExceptionHandler

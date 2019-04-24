@@ -1,4 +1,4 @@
-package com.meypar.pruebalivedata
+package com.example.pruebalivedata
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

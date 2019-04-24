@@ -1,4 +1,4 @@
-package com.meypar.pruebalivedata.model
+package com.example.model
 
 class Data {
     fun getValue(): String = "Texto de prueba"

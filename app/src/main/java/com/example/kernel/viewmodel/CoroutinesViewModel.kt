@@ -1,7 +1,7 @@
-package com.meypar.kernel.viewmodel
+package com.example.kernel.viewmodel
 
 import androidx.lifecycle.ViewModel
-import com.meypar.kernel.coroutines.mainContext
+import com.example.kernel.coroutines.mainContext
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Job
 import kotlin.coroutines.CoroutineContext

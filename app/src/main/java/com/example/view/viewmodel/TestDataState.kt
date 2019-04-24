@@ -1,4 +1,4 @@
-package com.meypar.pruebalivedata.view.viewmodel
+package com.example.view.viewmodel
 
 class TestDataState(
     var state: State = State.cleanData,

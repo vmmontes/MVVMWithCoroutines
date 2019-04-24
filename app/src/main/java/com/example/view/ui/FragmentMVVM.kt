@@ -1,4 +1,4 @@
-package com.meypar.pruebalivedata.view.ui
+package com.example.view.ui
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,9 +7,9 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProviders
-import com.meypar.pruebalivedata.R
-import com.meypar.pruebalivedata.view.viewmodel.TestDataState
-import com.meypar.pruebalivedata.view.viewmodel.TestViewModel
+import com.example.pruebalivedata.R
+import com.example.view.viewmodel.TestDataState
+import com.example.view.viewmodel.TestViewModel
 import kotlinx.android.synthetic.main.fragment_mvvm.*
 
 class FragmentMVVM : Fragment(), View.OnClickListener{
