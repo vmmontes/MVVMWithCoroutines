@@ -16,7 +16,7 @@ This layer contains business logic and data access.
 
 
 ###### Resumen
-Este proyecto contiene un ejemplo de la arcquitectura MVVM con la libreria de coroutinas para las llamadas asincronas.
+Este proyecto contiene un ejemplo de la arcquitectura MVVM con la librería de coroutinas para las llamadas asíncronas.
 
 ### Capas
 
@@ -24,7 +24,7 @@ Este proyecto contiene un ejemplo de la arcquitectura MVVM con la libreria de co
 En MVVM, la vista es activa, la vista reacciona a los cambios del modelo de la vista.
 
 ###### VistaModelo
-Es la capa intermedia entre el modelo y la vista. A traves del patron observer, la VistaModelo notifica si ha habido algun cambio en el modelo de la vista.
+Es la capa intermedia entre el modelo y la vista. A través del patrón observer, la VistaModelo notifica si ha habido algún cambio en el modelo de la vista.
 
 ###### Modelo
-Esta capa contiene la logica de negocio y el acceso a datos.
+Esta capa contiene la lógica de negocio y el acceso a datos.
